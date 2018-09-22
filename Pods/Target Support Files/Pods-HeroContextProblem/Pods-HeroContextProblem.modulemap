@@ -1,0 +1,6 @@
+framework module Pods_HeroContextProblem {
+  umbrella header "Pods-HeroContextProblem-umbrella.h"
+
+  export *
+  module * { export * }
+}
